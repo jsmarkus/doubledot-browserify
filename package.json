@@ -1,10 +1,10 @@
 {
     "name" : "doubledot-browserify",
     "version" : "1.10.4",
-    "description" : "Browser-side require() for js directories and npm modules",
+    "description" : "Browser-side require() for js directories and npm modules. Parent paths are allowed",
     "main" : "index.js",
     "bin" : {
-        "browserify" : "bin/cli.js"
+        "doubledot-browserify" : "bin/cli.js"
     },
     "directories" : {
         "example" : "example",
