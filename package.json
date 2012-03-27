@@ -1,5 +1,5 @@
 {
-    "name" : "browserify",
+    "name" : "doubledot-browserify",
     "version" : "1.10.4",
     "description" : "Browser-side require() for js directories and npm modules",
     "main" : "index.js",
